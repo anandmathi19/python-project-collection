@@ -1,6 +1,3 @@
-# python-project-collection
-A collection of Python projects including games, automation tools, data analysis, and web applications.
-
 # Python Project Collection
 
 A collection of Python projects I built while learning programming, problem solving, automation, data analysis, and web development.
