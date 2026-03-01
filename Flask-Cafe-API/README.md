@@ -105,5 +105,3 @@ http://127.0.0.1:5000/search?loc=Clerkenwell
 
 Ananda Raj
 B.Tech Artificial Intelligence & Data Science Student
-
-Learning backend development and working toward becoming an AI Engineer.
