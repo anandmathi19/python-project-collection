@@ -4,7 +4,7 @@ from twilio.rest import Client
 STOCK_NAME = "TSLA"
 COMPANY_NAME = "Tesla Inc"
 API_KEY = "Your API key"
-NEWS_API_KEY = "Your Api key"
+NEWS_API_KEY = "Your ApI key"
 
 TWILIO_SID = "Your Token"
 TWILIO_AUTH = "Your Auth"
